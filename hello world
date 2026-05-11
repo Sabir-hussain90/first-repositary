@@ -1,1 +1,10 @@
-
+<!DOCTYPE HTML>
+<HTML>
+<body>
+<P>***before the scripts***</p>
+<scripts>
+alert('***My name is Muhammad Sabir Hussain***')
+</scripts>
+<p> After the scripts</p>
+</body>
+</HTML>
